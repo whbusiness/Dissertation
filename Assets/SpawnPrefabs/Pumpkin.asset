@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7d16b2a15f9d5f849ba928e3291b5541, type: 3}
+  m_Name: Pumpkin
+  m_EditorClassIdentifier: 
+  foodType: {fileID: 7928513229456413627, guid: 19ee89c2365b58343a6497ff01e48da2, type: 3}
+  scoreIncrease: 100
+  name: Pumpkin
+  collisionFoodTypeSpawn: {fileID: 11400000, guid: b500b2358deb4494f82f05d64b903444, type: 2}
+  yLocationOnCollisionSpawn: 10

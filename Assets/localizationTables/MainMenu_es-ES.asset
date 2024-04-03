@@ -1,0 +1,113 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: MainMenu_es-ES
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: es-ES
+  m_SharedData: {fileID: 11400000, guid: 072bea307cdfe9145aed4b5d772058c2, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 46659145728
+    m_Localized: Comenzar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 757740474368
+    m_Localized: Ajustes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 980239912960
+    m_Localized: Abandonar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2816149688320
+    m_Localized: 'Reconocimiento de voz
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4043558227968
+    m_Localized: "Atr\xE1s"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1861066872721408
+    m_Localized: "Texto a voz\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1895906758234112
+    m_Localized: Reanudar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1896214792114176
+    m_Localized: "Men\xFA"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29334815444176896
+    m_Localized: Brillo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29335495709954048
+    m_Localized: "Tama\xF1o de fuente\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29335986774872064
+    m_Localized: "Cambiar controles\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29336172288937984
+    m_Localized: "Cambiar color\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29336500824576000
+    m_Localized: "Cambiar volumen\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29337087175692288
+    m_Localized: "Movimiento invertido\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29337354990391296
+    m_Localized: "Colocar objeto\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29337573094199296
+    m_Localized: "Espera...\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29337868952014848
+    m_Localized: "Volumen de efectos especiales\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29338083578744832
+    m_Localized: "Volumen de la m\xFAsica\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29338920489193472
+    m_Localized: "Filtro de color rojo\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29339095953707008
+    m_Localized: "Filtro de color azul\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29339121165668352
+    m_Localized: "Filtro de color verde\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29339510204141568
+    m_Localized: "Saturaci\xF3n"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

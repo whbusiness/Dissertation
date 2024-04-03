@@ -1,0 +1,116 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: MainMenu Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: MainMenu
+  m_TableCollectionNameGuidString: 072bea307cdfe9145aed4b5d772058c2
+  m_Entries:
+  - m_Id: 46659145728
+    m_Key: StartButton
+    m_Metadata:
+      m_Items: []
+  - m_Id: 757740474368
+    m_Key: SettingsButton
+    m_Metadata:
+      m_Items: []
+  - m_Id: 980239912960
+    m_Key: QuitButton
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2816149688320
+    m_Key: SpeechRecogTxt
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4043558227968
+    m_Key: BackButton
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1861066872721408
+    m_Key: ' TTS'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1895906758234112
+    m_Key: Resume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1896214792114176
+    m_Key: Menu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29334815444176896
+    m_Key: Brightness
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29335495709954048
+    m_Key: Font Size
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29335986774872064
+    m_Key: Change Controls
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29336172288937984
+    m_Key: Change Colour
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29336500824576000
+    m_Key: Change Volume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29337087175692288
+    m_Key: Invert Movement
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29337354990391296
+    m_Key: Place Object
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29337573094199296
+    m_Key: Waiting...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29337868952014848
+    m_Key: SFX Volume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29338083578744832
+    m_Key: Music Volume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29338920489193472
+    m_Key: Red Color Filter
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29339095953707008
+    m_Key: Blue Color Filter
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29339121165668352
+    m_Key: Green Color Filter
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29339510204141568
+    m_Key: Saturation
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 2819797751473635352
+  references:
+    version: 2
+    RefIds:
+    - rid: 2819797751473635352
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1704463435963

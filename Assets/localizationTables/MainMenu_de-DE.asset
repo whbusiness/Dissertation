@@ -1,0 +1,113 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: MainMenu_de-DE
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: de-DE
+  m_SharedData: {fileID: 11400000, guid: 072bea307cdfe9145aed4b5d772058c2, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 46659145728
+    m_Localized: Start
+    m_Metadata:
+      m_Items: []
+  - m_Id: 757740474368
+    m_Localized: Einstellungen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 980239912960
+    m_Localized: "Aufh\xF6ren"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2816149688320
+    m_Localized: Spracherkennung
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4043558227968
+    m_Localized: "Zur\xFCckkehren"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1861066872721408
+    m_Localized: "Text zu Sprache\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1895906758234112
+    m_Localized: 'Wieder aufnehmen
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1896214792114176
+    m_Localized: Speisekarte
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29334815444176896
+    m_Localized: Helligkeit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29335495709954048
+    m_Localized: "Schriftgr\xF6\xDFe"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29335986774872064
+    m_Localized: "\xC4nderungskontrollen\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29336172288937984
+    m_Localized: "Farbe \xE4ndern\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29336500824576000
+    m_Localized: "Lautst\xE4rke \xE4ndern\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29337087175692288
+    m_Localized: "Bewegung umkehren\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29337354990391296
+    m_Localized: "Objekt platzieren\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29337573094199296
+    m_Localized: "Warten...\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29337868952014848
+    m_Localized: "SFX-Lautst\xE4rke\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29338083578744832
+    m_Localized: "Musiklautst\xE4rke\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29338920489193472
+    m_Localized: "Roter Farbfilter\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29339095953707008
+    m_Localized: "Blauer Farbfilter\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29339121165668352
+    m_Localized: "Gr\xFCner Farbfilter\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29339510204141568
+    m_Localized: "S\xE4ttigung"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

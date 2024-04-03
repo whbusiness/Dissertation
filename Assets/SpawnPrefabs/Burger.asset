@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7d16b2a15f9d5f849ba928e3291b5541, type: 3}
+  m_Name: Burger
+  m_EditorClassIdentifier: 
+  foodType: {fileID: 5653229252678303986, guid: 370b63ffafba04a4c90c57261160fec4, type: 3}
+  scoreIncrease: 75
+  name: Burger
+  collisionFoodTypeSpawn: {fileID: 11400000, guid: a4c0b398e755b204ca0ee5dcddcf5a2e, type: 2}
+  yLocationOnCollisionSpawn: 10
